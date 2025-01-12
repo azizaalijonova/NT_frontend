@@ -31,3 +31,7 @@ html {
   line-height: 18px;
   color: var(--white);
 }
+
+a {
+  text-decoration: none;
+}
