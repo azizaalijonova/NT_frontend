@@ -12,7 +12,7 @@ document.querySelector(".btn").addEventListener("click", function (e) {
     // Validate credentials
     if (email === adminEmail && password === adminPassword) {
       alert("Login successful! Redirecting...");
-      window.location.href = "dashboard.html"; // Redirect to dashboard
+      window.location.href = "admin.html"; // Redirect to dashboard
     } else {
       alert("Invalid email or password.");
     }
