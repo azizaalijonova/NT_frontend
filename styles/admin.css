@@ -1,0 +1,12 @@
+.admin-dashboard {
+  display: flex;
+}
+.admin-menu {
+  width: 17%;
+}
+
+.admin-field {
+  width: 83%;
+  background-color: var(--white);
+  height: 100vh;
+}

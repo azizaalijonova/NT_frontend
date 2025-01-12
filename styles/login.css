@@ -26,7 +26,7 @@
   flex-direction: column;
   gap: 24px;
   padding: 32px 24px;
-  a {
+  button {
     opacity: 40%;
     width: 72px;
   }
